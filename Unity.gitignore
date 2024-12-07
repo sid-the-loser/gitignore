@@ -40,6 +40,9 @@
 .vscode/
 .vsconfig
 
+# (added) Blender backup files need not be uploaded to a repo (can be commented if you're paranoid)
+*.blend1
+
 # Gradle cache directory
 .gradle/
 
