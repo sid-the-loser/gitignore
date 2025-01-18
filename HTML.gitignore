@@ -1,0 +1,5 @@
+# (added) Ignoring idea files
+.idea/
+
+# (added) Ignoring vscode files
+.vscode/
