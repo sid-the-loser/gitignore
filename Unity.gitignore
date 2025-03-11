@@ -3,6 +3,7 @@
 # Get latest original version from https://github.com/github/gitignore/blob/main/Unity.gitignore
 # Get the modified version from https://github.com/sid-the-loser/gitignore/blob/main/Unity.gitignore
 #
+.utmp/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
