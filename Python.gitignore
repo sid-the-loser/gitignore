@@ -1,6 +1,3 @@
-# (added) PyCharm cache directory (I don't really need it anywhere)
-.idea/
-
 # (added) VSCode cache
 .vscode/
 
